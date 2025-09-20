@@ -6,3 +6,5 @@
 ![F5 iRules](https://img.shields.io/badge/F5-iRules%20(Tcl)-FF6600?logo=f5&logoColor=white)
 
 An LTM iRule that displays pool member state information when a client sends an HTTP request to /f5poolstatus
+
+<img width="793" height="628" alt="Image" src="https://github.com/user-attachments/assets/c5f35a67-0236-44f0-8a13-0f0d4c92de70" />
