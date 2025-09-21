@@ -16,6 +16,17 @@ A modern LTM iRule that displays pool member state information when a client sen
 - This is an independent, community-developed solution that utilizes F5 products but is not affiliated with F5 Inc.
 - For official F5 support and solutions, please contact F5 Inc. directly
 
+## License
+
+MIT License - see [LICENSE](LICENSE) file for details.
+
+## Disclaimer
+
+- This solution is **NOT** officially endorsed, supported, or maintained by F5 Inc.
+- F5 Networks, Inc. retains all rights to their trademarks, including but not limited to "F5", "BIG-IP", "LTM", "APM", and related marks
+- This is an independent, community-developed solution that utilizes F5 products but is not affiliated with F5 Inc.
+- For official F5 support and solutions, please contact F5 Inc. directly
+
 **Technical Disclaimer:**
 
 - This software is provided "AS IS" without warranty of any kind
@@ -23,6 +34,4 @@ A modern LTM iRule that displays pool member state information when a client sen
 - Always test thoroughly in non-production environments before deployment
 - Backup your F5 configuration before implementing any changes
 - Review and understand all code before deploying to production systems
-
-By using this software, you acknowledge that you have read and understood these disclaimers and agree to use this solution at your own risk.
 
