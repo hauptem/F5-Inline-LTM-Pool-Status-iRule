@@ -8,3 +8,21 @@
 A modern LTM iRule that displays pool member state information when a client sends an HTTP request to /f5poolstatus
 
 <img width="793" height="628" alt="Image" src="https://github.com/user-attachments/assets/c5f35a67-0236-44f0-8a13-0f0d4c92de70" />
+
+## Disclaimer
+
+- This solution is **NOT** officially endorsed, supported, or maintained by F5 Inc.
+- F5 Networks, Inc. retains all rights to their trademarks, including but not limited to "F5", "BIG-IP", "LTM", "APM", and related marks
+- This is an independent, community-developed solution that utilizes F5 products but is not affiliated with F5 Inc.
+- For official F5 support and solutions, please contact F5 Inc. directly
+
+**Technical Disclaimer:**
+
+- This software is provided "AS IS" without warranty of any kind
+- The authors and contributors are not responsible for any damages or issues that may arise from its use
+- Always test thoroughly in non-production environments before deployment
+- Backup your F5 configuration before implementing any changes
+- Review and understand all code before deploying to production systems
+
+By using this software, you acknowledge that you have read and understood these disclaimers and agree to use this solution at your own risk.
+
