@@ -7,7 +7,7 @@
 
 A modern LTM iRule that displays pool member state information when a client sends an HTTP request to /f5poolstatus
 
-<img width="793" height="628" alt="Image" src="https://github.com/user-attachments/assets/c5f35a67-0236-44f0-8a13-0f0d4c92de70" />
+<img width="1401" height="1003" alt="Image" src="https://github.com/user-attachments/assets/c95ba848-55e5-4208-ba8a-08cff1106208" />
 
 ## Disclaimer
 
