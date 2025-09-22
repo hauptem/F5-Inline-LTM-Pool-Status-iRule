@@ -9,13 +9,6 @@ A modern LTM iRule that displays pool member state information when a client sen
 
 <img width="1401" height="1003" alt="Image" src="https://github.com/user-attachments/assets/c95ba848-55e5-4208-ba8a-08cff1106208" />
 
-## Disclaimer
-
-- This solution is **NOT** officially endorsed, supported, or maintained by F5 Inc.
-- F5 Networks, Inc. retains all rights to their trademarks, including but not limited to "F5", "BIG-IP", "LTM", "APM", and related marks
-- This is an independent, community-developed solution that utilizes F5 products but is not affiliated with F5 Inc.
-- For official F5 support and solutions, please contact F5 Inc. directly
-
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details.
