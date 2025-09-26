@@ -5,7 +5,7 @@
 ![TMOS Version](https://img.shields.io/badge/TMOS-15.0%2B-red)
 ![F5 iRules](https://img.shields.io/badge/F5-iRules%20(Tcl)-FF6600?logo=f5&logoColor=white)
 
-A modern LTM iRule that displays pool member state information when a client sends an HTTP request to /f5poolstatus
+A modern LTM iRule that displays pool member state information when a client sends an HTTP GET request to /f5poolstatus
 
 <img width="1401" height="1003" alt="Image" src="https://github.com/user-attachments/assets/c95ba848-55e5-4208-ba8a-08cff1106208" />
 
