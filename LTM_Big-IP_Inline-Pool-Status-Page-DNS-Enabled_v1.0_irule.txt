@@ -1,4 +1,4 @@
-# LTM_Big-IP_Inline-Pool-Status-Page-DNS-Enabled_v1.0_irule
+# LTM_Inline-Pool-Status-Page-DNS-Enabled_v1.0_irule
 # Revision: 1.0
 # Date: June 2025
 # Author: Eric Haupt
@@ -192,3 +192,4 @@ HTTP::respond 200 content $html_response \
     }
 
 }
+
