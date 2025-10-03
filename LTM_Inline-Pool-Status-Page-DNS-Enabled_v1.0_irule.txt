@@ -12,6 +12,7 @@
 #   This iRule displays pool member status on GET requests to /f5poolstatus
 #   It will sort IPs lowest to highest. 
 #   It requires a DNS resolver '/Common/dashboard-DNS' to function
+#   IPv6 addressing is not supported at this time.
 #
 when HTTP_REQUEST {
     if { [HTTP::uri] eq "/f5poolstatus" } {
@@ -192,4 +193,5 @@ HTTP::respond 200 content $html_response \
     }
 
 }
+
 
