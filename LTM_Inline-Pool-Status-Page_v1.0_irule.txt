@@ -10,6 +10,7 @@
 #
 # Description:
 #   This iRule displays pool member status on GET requests to /f5poolstatus
+#   IPv6 addressing is not supported at this time.
 #
 when HTTP_REQUEST {
     if { [HTTP::uri] eq "/f5poolstatus" } {
