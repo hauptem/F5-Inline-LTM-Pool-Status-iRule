@@ -6,9 +6,12 @@
 ![F5 iRules](https://img.shields.io/badge/F5-iRules%20(Tcl)-FF6600?logo=f5&logoColor=white)
 
 A modern LTM iRule that displays pool member state information when a client sends an HTTP GET request to /f5poolstatus.
-This has been tested with IPv4 pool member addresses. Do not use for IPv6; IPv6 support is in testing.
 
-<img width="1401" height="1003" alt="Image" src="https://github.com/user-attachments/assets/c95ba848-55e5-4208-ba8a-08cff1106208" />
+Version 1.1 has been updated to work with IPv6 addresses. Ensure to do your own offline testing in your environment for IPv6 functionality before placing on production virtual servers.
+
+<img width="1221" height="896" alt="Image" src="https://github.com/user-attachments/assets/7107bdae-c955-4049-a0b4-0f224ef329dd" />
+
+<img width="1221" height="896" alt="Image" src="https://github.com/user-attachments/assets/046a033b-0c52-4ccd-a210-39c3ebd5b31a" />
 
 ## License
 
