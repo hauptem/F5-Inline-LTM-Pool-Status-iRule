@@ -3,6 +3,8 @@
 # Revision: 1.1
 # Date: October 2025
 # Author: Eric Haupt
+# https://github.com/hauptem/F5-Inline-LTM-Pool-Status-iRule
+#
 # Description:
 #   This iRule displays pool member status on GET requests to /f5poolstatus
 #
