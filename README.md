@@ -7,11 +7,13 @@
 
 A modern LTM iRule that displays pool member state information when a client sends an HTTP GET request to /f5poolstatus.
 
-Version 1.1 has been updated to work with IPv6 addresses. Ensure to do your own offline testing in your environment for IPv6 functionality before placing on production virtual servers.
+Version 1.1 has been updated to work with IPv6 addresses. Ensure to do your own offline testing in your environment for validation of IPv6 functionality before placing on production virtual servers.
 
 <img width="1221" height="896" alt="Image" src="https://github.com/user-attachments/assets/7107bdae-c955-4049-a0b4-0f224ef329dd" />
 
 <img width="1221" height="896" alt="Image" src="https://github.com/user-attachments/assets/046a033b-0c52-4ccd-a210-39c3ebd5b31a" />
+
+<img width="1221" height="896" alt="Image" src="https://github.com/user-attachments/assets/8b8d40b0-e223-4da4-99d5-2508d599bdaf" />
 
 ## License
 
