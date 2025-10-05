@@ -13,7 +13,7 @@ Version 1.1 has been updated to work with IPv6 addresses. Ensure to do your own 
 
 <img width="1221" height="896" alt="Image" src="https://github.com/user-attachments/assets/046a033b-0c52-4ccd-a210-39c3ebd5b31a" />
 
-<img width="1221" height="896" alt="Image" src="https://github.com/user-attachments/assets/8b8d40b0-e223-4da4-99d5-2508d599bdaf" />
+<img width="1221" height="896" alt="Image" src="https://github.com/user-attachments/assets/2bff7b68-4af2-4809-89a2-484e99dd3aae" />
 
 ## License
 
