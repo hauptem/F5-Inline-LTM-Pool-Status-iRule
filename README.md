@@ -7,7 +7,9 @@
 
 A modern LTM iRule that displays pool member state information when a client sends an HTTP GET request to /f5poolstatus.
 
-Version 1.1 has been updated to work with IPv6 addresses. Ensure to do your own offline testing in your environment for validation of IPv6 functionality before placing on production virtual servers.
+Version 1.1 has been updated to work with IPv6 addresses for pool sort processing. DNS only supports IPv4 at this time.
+
+Ensure to do your own offline testing in your environment for validation of IPv6 functionality before placing on production virtual servers.
 
 <img width="1221" height="896" alt="Image" src="https://github.com/user-attachments/assets/7107bdae-c955-4049-a0b4-0f224ef329dd" />
 
