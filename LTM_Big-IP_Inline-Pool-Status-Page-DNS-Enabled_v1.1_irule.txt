@@ -1,6 +1,5 @@
 # LTM_Big-IP_Inline-Pool-Status-Page-DNS-Enabled_v1.1_irule
-#
-# Revision: 1.1
+# Version: 1.1
 # Date: October 2025
 # Author: Eric Haupt
 # https://github.com/hauptem/F5-Inline-LTM-Pool-Status-iRule
