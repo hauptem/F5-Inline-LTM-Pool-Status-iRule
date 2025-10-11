@@ -1,6 +1,9 @@
 # LTM_Big-IP_Inline-Pool-Status-Page_v1.1_irule
 # Version: 1.1
 # Author: Eric Haupt
+# License: MIT
+# Copyright (c) 2025 Eric Haupt
+# Released under the MIT License. See LICENSE file for details.
 # https://github.com/hauptem/F5-Inline-LTM-Pool-Status-iRule
 #
 # Description:
