@@ -5,7 +5,7 @@
 ![TMOS Version](https://img.shields.io/badge/TMOS-15.0%2B-red)
 ![F5 iRules](https://img.shields.io/badge/F5-iRules%20(Tcl)-FF6600?logo=f5&logoColor=white)
 
-A modern LTM iRule that displays pool member state information when a client sends an HTTP GET request to /f5poolstatus.
+A modern inline LTM "pool status" iRule that displays pool member state information when a client sends an HTTP GET request to /f5poolstatus.
 
 Version 1.1 has been updated to work with IPv6 addresses for pool sort processing. DNS only supports IPv4 at this time.
 
