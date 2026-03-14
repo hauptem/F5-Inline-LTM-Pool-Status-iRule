@@ -2,7 +2,8 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![F5 Compatible](https://img.shields.io/badge/F5%20BIG--IP-compatible-orange)
-![TMOS Version](https://img.shields.io/badge/TMOS-15.0%2B-red)
+![TMOS Version](https://img.shields.io/badge/TMOS-17.x%2B-red)
+![TMOS Version](https://img.shields.io/badge/TMOS-21.x%2B-red)
 ![F5 iRules](https://img.shields.io/badge/F5-iRules%20(Tcl)-FF6600?logo=f5&logoColor=white)
 
 A modern inline LTM "pool status" iRule that displays pool member state information when a client sends an HTTP GET request to /f5poolstatus.
