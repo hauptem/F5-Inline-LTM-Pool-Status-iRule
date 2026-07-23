@@ -1,9 +1,7 @@
 # F5 BIG-IP Inline LTM Pool Status iRule
 
 ![License](https://img.shields.io/badge/license-MIT-green)
-![F5 Compatible](https://img.shields.io/badge/F5%20BIG--IP-compatible-orange)
-![TMOS Version](https://img.shields.io/badge/TMOS-17.x%2B-red)
-![TMOS Version](https://img.shields.io/badge/TMOS-21.x%2B-red)
+![TMOS Version](https://img.shields.io/badge/TMOS-17.x%20%7C%2021.x-red)
 ![F5 iRules](https://img.shields.io/badge/F5-iRules%20(Tcl)-FF6600?logo=f5&logoColor=white)
 
 A modern inline LTM "pool status" iRule that displays pool member state information when a client sends an HTTP GET request to /f5poolstatus.
@@ -11,6 +9,10 @@ A modern inline LTM "pool status" iRule that displays pool member state informat
 Version 1.1 has been updated to work with IPv6 addresses for pool sort processing. DNS only supports IPv4 at this time.
 
 Ensure to do your own offline testing in your environment before placing on production virtual servers.
+
+## Requirements
+
+- BIG-IP running TMOS 17.x or 21.x series
 
 <img width="1221" height="896" alt="Image" src="https://github.com/user-attachments/assets/7107bdae-c955-4049-a0b4-0f224ef329dd" />
 
