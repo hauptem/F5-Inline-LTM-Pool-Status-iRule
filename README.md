@@ -14,11 +14,9 @@ Ensure to do your own offline testing in your environment before placing on prod
 
 - BIG-IP running TMOS 17.x or 21.x series
 
-<img width="1221" height="896" alt="Image" src="https://github.com/user-attachments/assets/7107bdae-c955-4049-a0b4-0f224ef329dd" />
+<img width="1493" height="774" alt="Image" src="https://github.com/user-attachments/assets/a1f68864-e442-4603-8741-d3c613d822ed" />
 
-<img width="1221" height="896" alt="Image" src="https://github.com/user-attachments/assets/046a033b-0c52-4ccd-a210-39c3ebd5b31a" />
-
-<img width="1221" height="896" alt="Image" src="https://github.com/user-attachments/assets/2bff7b68-4af2-4809-89a2-484e99dd3aae" />
+<img width="1476" height="758" alt="Image" src="https://github.com/user-attachments/assets/ba0d3556-5037-4db3-a852-4983f18007e3" />
 
 ## License
 
